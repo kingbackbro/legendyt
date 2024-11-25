@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler, CallbackQueryHandler
 
 # Replace with your Bot's token
 BOT_TOKEN = "7197334579:AAFchgcg6HIkUe33awT0cqTJkMENwcWid0k"
-GITHUB_REPO = "https://api.github.com/repos/username/repository/contents/approved_ids.txt"  # GitHub file link
+GITHUB_REPO = "https://api.github.com/repos/kingbackbro/legendyt/contents/approved_ids.txt"  # GitHub file link
 
 # Dictionary to store Android ID approval status
 pending_approval_ids = {}
